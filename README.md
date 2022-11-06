@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://ict4kids.files.wordpress.com/2013/03/scratchcat-large.png" align="right" height="100" width="100" />
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://ict4kids.files.wordpress.com/2013/03/scratchcat-large.png" align="right" height="100" width="100"/></a>
 </div>  
   
 
