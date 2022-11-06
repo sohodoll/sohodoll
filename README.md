@@ -22,6 +22,7 @@
 
 
 ## Current Stack 
+<div align="center"> 
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -50,7 +51,7 @@
 </div>
 
 </td></tr></table>  
-
+</div>  
 <br/>  
 
 
