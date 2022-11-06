@@ -1,3 +1,8 @@
+[![MasterHead](https://static.tildacdn.com/tild3238-3934-4834-a234-356361356532/ISA_BW.jpg)]
+<h1 align="center">Hi 👋, I'm Vitaly</h1>
+<h3 align="center">I found web dev so engaging that I became a Junior developer in 6 months. Currently, I am looking for a team.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/IkdLIvu.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohodoll&label=Profile%20views&color=0e75b6&style=flat" alt="sohodoll" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohodoll" alt="sohodoll" /></a> </p>
@@ -23,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohodoll&show_icons=true&locale=en&layout=compact" alt="sohodoll" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohodoll&show_icons=true&locale=en" alt="sohodoll" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohodoll&" alt="sohodoll" /></p>
