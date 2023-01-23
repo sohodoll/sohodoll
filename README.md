@@ -9,7 +9,7 @@
 - ##### **🌠** I feel most condifent using **HTML**, **CSS**, **JS**, **TS**, and **Node.js**  
   
 
-- ##### 🃏 My competitive advantage is my background in content, indlucing SEO  
+- ##### 🃏 My competitive advantage is my background in content, indlucing SEO, and my soft skills
   
 
 - #####  **🌿** I’m currently learning **React.js**  
