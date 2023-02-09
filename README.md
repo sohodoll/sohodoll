@@ -6,13 +6,13 @@
 ### <div align="left">Hey, I'm Vitaly. A web developer looking for a team! 🚀</div>  
   
 
-- ##### **🌠** I feel most condifent using **HTML**, **CSS**, **JS**, **TS**, and **Node.js**  
+- ##### **🌠** I feel most condifent using **Tailwind**, **TS**, **React.js**, and **Node.js**  
   
 
 - ##### 🃏 My competitive advantage is my background in content, indlucing SEO, and my soft skills
   
 
-- #####  **🌿** I’m currently learning **React.js**  
+- #####  **🌿** I’m currently mastering **Vue.js**
   
 
 - ##### **⚡** Fun fact: I can run a 5k race under 20 minutes  
