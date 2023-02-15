@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="left">Hey, I'm Vitaly. A web developer looking for a team! 🚀</div>  
+### <div align="left">Hey, I'm Vitaly, a creative software developer! 🚀</div>  
   
 
 - ##### **🌠** I feel most condifent using **Tailwind**, **TS**, **React.js**, and **Node.js**  
