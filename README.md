@@ -9,7 +9,7 @@
 - ##### **🌠** I feel most condifent using **Tailwind**, **TS**, **React.js**, and **Node.js**  
   
 
-- ##### 🃏 My competitive advantage is my background in content, indlucing SEO, and my soft skills
+- ##### 🃏 My competitive advantages are my background in content creation, indlucing SEO, and my soft skills
   
 
 - #####  **🌿** I’m currently mastering **Vue.js**
